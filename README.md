@@ -9,3 +9,18 @@
 
 <code>vagrant up --no-provision </code>
 
+
+  ```ruby
+root@mike-UL20A:/home/mike/hometask11/dz11# vagrant ssh-config
+Host nginx
+  HostName 127.0.0.1
+  User vagrant
+  Port 2222
+  UserKnownHostsFile /dev/null
+  StrictHostKeyChecking no
+  PasswordAuthentication no
+  IdentityFile /home/mike/hometask11/dz11/.vagrant/machines/nginx/virtualbox/private_key
+  IdentitiesOnly yes
+  LogLevel
+  ```
+  
