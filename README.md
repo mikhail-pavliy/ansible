@@ -7,5 +7,5 @@
 - должен быть использован notify для старта nginx после установки
 - сайт должен слушать на нестандартном порту - 8080, для этого использовать переменные в Ansible
 
-<code>vagrant up --no-provision
-</code>
+<code>vagrant up --no-provision </code>
+
